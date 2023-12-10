@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Lexend', sans-serif;
+}
+
+.mainContainerNav {
+    text-align: center;
+    justify-content: center;
+}
+
+.navContainer {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+.regularNav {
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px
+}
